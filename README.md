@@ -1,5 +1,5 @@
 # Language-Translation
- This Python script is a workaround for innacurate language translation by googletrans API for python.
+ This Python script is a workaround for inaccurate language translation by googletrans API for python.
 
  To get codes of language supported by Google Translate go to https://cloud.google.com/translate/docs/languages <br>
 
